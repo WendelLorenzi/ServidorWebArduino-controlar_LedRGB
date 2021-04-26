@@ -1,8 +1,8 @@
 # Servidor Web no Arduino para controlar Led RGB
 
 <ul>
-		Projeto base de um servidor web no arduino usando o módulo Ethernet Shield W5100. Na arquiteura do projeto é possivel criar paginas com facilidade para controle de diversos componentes.
-	 Para isso basta criar a pagina (em html) como um método no arquivo "Tela.cpp" declarar o método no arquivo "Tela.h", após, é preciso instânciar o objeto na classe principal (.ino) e chamar os métodos(telas) que foram criadas no arquivo Tela.cpp no loop da classe principal.
+		Projeto base de um servidor web no arduino usando o módulo Ethernet Shield W5100. Na arquiteura do projeto é possivel criar paginas com facilidade para controle de diversos componentes. <br>
+	 Para isso basta criar a pagina (em html) como um método no arquivo "Tela.cpp" declarar o método no arquivo "Tela.h", após, é preciso instância-lo na classe principal (.ino) e chamar os métodos(telas) que foram criadas no arquivo Tela.cpp no loop da classe principal.
 	</ul>
 
 #### Materiais utiliazados
