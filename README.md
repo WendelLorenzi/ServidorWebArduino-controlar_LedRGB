@@ -12,7 +12,7 @@
 
 #### Configuração de rede
 <ul>
-	Para tal funcionamento será necessário a configuração da rede, tanto no arduino como no roteador. No Arduino o servidor roda na porta 80 e ip classe C. 
+	Para tal funcionamento será necessário a configuração da rede, tanto no arduino como no roteador. No Arduino o servidor roda na porta 80 e ip de máscara /24. 
 	No roteador é preciso direcionar a porta 80 para o ip que foi setado no servidor.
 </ul>
 
