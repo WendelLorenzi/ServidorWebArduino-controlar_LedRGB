@@ -19,5 +19,5 @@
 #### Conclusão
 <ul>
 	É possivel utilizar este projeto para controle de diversos componentes através de uma intranet, no meu caso usei o led RGB como componente. Tenho uma organização aqui no GitHub que possui classes prontas e testadas para controle de diversos componentes.  <br>                   
-	Link para acesso - https://github.com/componentes-arduino
+	Link para acesso - https://github.com/WendelLorenzi/arduino-components
 </ul>
